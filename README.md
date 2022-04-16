@@ -1,3 +1,3 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&layout=compact&theme=buefy&hide_border=true" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Turing-bot&date_format=[Y.]n.j" alt="GitHub Streak" /></a>
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Turing-bot&date_format=[Y.]n.j) ](https://git.io/streak-stats)
