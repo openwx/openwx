@@ -26,15 +26,15 @@ const Zhang = {
                         Bilibli: "Evan-You",
                         CoolApk: "绝代芳华"
                       },
- Hope: "Proficient in Vue.js, React and Typescript"
+  hope: "Proficient in Vue.js, React and Typescript"
 }
 ```
 
 ---
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=default&locale=cn&line_height=40px" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=default&locale=cn" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=default&locale=cn&line_height=40px" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=default&locale=cn" /></a>
 </div>
 
 <!--
