@@ -32,8 +32,8 @@ const Zhang = {
 ---
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=calm&locale=cn&line_height=40px" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=calm&locale=cn&card_width=px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=default&locale=cn&line_height=40px" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=default&locale=cn" />
 </div>
 
 <!--
