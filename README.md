@@ -1,5 +1,7 @@
-### 👋你好，我是一名前端开发新人，正努力让自己变得更强。🐻
----
+### 你好👋，我是一名前端开发新人，正努力让自己变得更强。🐻
+
+</br>
+</br>
 
 **目前正在学习：**
 <p>
@@ -12,14 +14,27 @@
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
 </p>
 
-<br/>
+</br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=swift&locale=cn" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=swift&locale=cn" />
-</p>
+#### 关于我：
+```javascript
+const Zhang = {
+  myFavorite: [ Movie, Game, Code],
+  frequentPlaces: {
+                        GitHub: "Turing-bot",
+                        Bilibli: "Evan-You",
+                        CoolApk: "绝代芳华"
+                      },
+ Hope: "Proficient in Vue.js, React and Typescript"
+}
+```
+
+---
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=calm&locale=cn&line_height=40px" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=calm&locale=cn&card_width=px" />
+</div>
 
 <!--
 添加联系方式
