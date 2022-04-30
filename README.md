@@ -26,5 +26,5 @@
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=vue&locale=cn&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=vue&locale=cn&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats-zhangwenqing.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=vue&locale=cn&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats-zhangwenqing.vercel.app/api/top-langs/?username=Turing-bot&theme=vue&locale=cn&layout=compact&hide_border=true" /></a> |
 |---|---|
