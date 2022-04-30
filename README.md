@@ -1,5 +1,3 @@
-<img align="left" alt="banner" src='https://github.com/Turing-bot/Turing-bot/blob/master/assets/banner.gif' width="405" height="720"/>
-
 **我学习这些知识：**
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,17 +21,10 @@
 
 </br>
 
-**我喜欢这些网站**
-<p>
-  <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?&style=flat&logo=Steam&logoColor=white" />
-  <img alt="Epic Games" src="https://img.shields.io/badge/Epic Games-313131?&style=flat&logo=Epic Games&logoColor=white" />
-  <img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-00A1D6?&style=flat&logo=Bilibili&logoColor=white" />
-  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?&style=flat&logo=YouTube&logoColor=white" />
-</p>
-
 <!--START_SECTION:waka--> 
 <!--END_SECTION:waka-->
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=vue&locale=cn&hide_border=false" /></a><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=vue&locale=cn&hide_border=false&layout=compact" /></a>
+| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=vue&locale=cn&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=vue&locale=cn&layout=compact&hide_border=true" /></a> |
+|---|---|
