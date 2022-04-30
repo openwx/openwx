@@ -34,18 +34,8 @@
   <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?&style=flat&logo=YouTube&logoColor=white" />
 </p>
 
-#### 关于我：
-```javascript
-const Zhang = {
-  myFavorite: [ Movie, Game, Code],
-  frequentPlaces: {
-                        GitHub: "Turing-bot",
-                        Bilibli: "Evan-You",
-                        CoolApk: "绝代芳华"
-                      },
-  hope: "Proficient in Vue.js, React and Typescript"
-}
-```
+<!--START_SECTION:waka--> 
+<!--END_SECTION:waka-->
 
 ---
 
