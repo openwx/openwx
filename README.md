@@ -5,9 +5,7 @@
 
 ---
 
-</br>
-
-### 🐻 我学习这些知识：
+### 🔖 我学习这些知识：
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='40px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='40px'/>
@@ -45,8 +43,6 @@
 
 ---
 
-</br>
-
 ### 🪅 这一周我的时间花在了这里：
 <!--START_SECTION:waka-->
 
@@ -60,5 +56,5 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 </br>
 
 ### 🌟 我的GitHub统计数据：
-| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats-zhangwenqing.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=vue&locale=cn&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats-zhangwenqing.vercel.app/api/top-langs/?username=Turing-bot&theme=vue&locale=cn&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=buefy&locale=en&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=buefy&locale=en&layout=compact&hide_border=true&langs_count=8" /></a> |
 |---|---|
