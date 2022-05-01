@@ -1,3 +1,10 @@
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=rule34"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@zhengzhou?v=1" align="right">
+</p>
+
+---
+
 ### 🐻 我学习这些知识：
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='40px' />
@@ -36,7 +43,7 @@
 
 ---
 
-### 🪅 这一周我的时间花在了这里:
+### 🪅 这一周我的时间花在了这里：
 <!--START_SECTION:waka-->
 
 ```text
