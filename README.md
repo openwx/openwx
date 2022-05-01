@@ -5,7 +5,7 @@
 
 ---
 
-### 🔖 我学习这些知识：
+### 🔖 Languages:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='40px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='40px'/>
@@ -31,7 +31,7 @@
 
 </br>
 
-### 🔮 我使用这些工具：
+### 🔮 Tools:
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=flat&logo=Visual Studio Code&logoColor=white" height='25'/>
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height='25'/>
@@ -39,11 +39,9 @@
   <img alt="Gitee" src="https://img.shields.io/badge/Gitee-C71D23?&style=flat&logo=Gitee&logoColor=white" height='25'/>
 </p>
 
-</br>
-
 ---
 
-### 🪅 这一周我的时间花在了这里：
+### 🪅 This week i spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
@@ -55,6 +53,6 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 </br>
 
-### 🌟 我的GitHub统计数据：
+### 🌟 My GitHub stats:
 | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=buefy&locale=en&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=buefy&locale=en&layout=compact&hide_border=true&langs_count=8" /></a> |
 |---|---|
