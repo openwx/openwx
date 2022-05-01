@@ -1,14 +1,14 @@
 **我学习这些知识：**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='60px' />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='60px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='60px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width='60px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='60px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='60px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width='60px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='60px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='60px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='50px' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='50px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='50px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width='50px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='50px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='50px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width='50px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='50px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='50px'/>
 
 <!--
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,7 +32,8 @@
   <img alt="Gitee" src="https://img.shields.io/badge/Gitee-C71D23?&style=flat&logo=Gitee&logoColor=white" height='30'/>
 </p>
 
-</br>
+
+---
 
 <!--START_SECTION:waka-->
 
@@ -42,8 +43,6 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
----
 
 | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats-zhangwenqing.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=default&locale=cn&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats-zhangwenqing.vercel.app/api/top-langs/?username=Turing-bot&theme=default&locale=cn&layout=compact&hide_border=true" /></a> |
 |---|---|
