@@ -1,4 +1,4 @@
-**我学习这些知识：**
+#### 我学习这些知识：
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='50px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='50px'/>
@@ -24,7 +24,7 @@
 
 </br>
 
-**我使用这些工具**
+#### 我使用这些工具：
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=flat&logo=Visual Studio Code&logoColor=white" height='30'/>
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height='30'/>
@@ -44,5 +44,5 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats-zhangwenqing.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=default&locale=cn&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats-zhangwenqing.vercel.app/api/top-langs/?username=Turing-bot&theme=default&locale=cn&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats-zhangwenqing.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=vue&locale=cn&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats-zhangwenqing.vercel.app/api/top-langs/?username=Turing-bot&theme=vue&locale=cn&layout=compact&hide_border=true" /></a> |
 |---|---|
