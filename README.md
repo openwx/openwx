@@ -5,6 +5,8 @@
 
 ---
 
+</br>
+
 ### 🐻 我学习这些知识：
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='40px' />
@@ -42,6 +44,8 @@
 </br>
 
 ---
+
+</br>
 
 ### 🪅 这一周我的时间花在了这里：
 <!--START_SECTION:waka-->
