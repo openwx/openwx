@@ -58,7 +58,12 @@ HTML         0 secs          ███░░░░░░░░░░░░░░
 | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=buefy&locale=en&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=buefy&locale=en&layout=compact&hide_border=true&langs_count=8" /></a> |
 |---|---|
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+---
+
+### 🐍Snake Eating My Contribution Graph
+![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</br>
 
 <details> 
   <summary>👋</summary>
