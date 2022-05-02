@@ -41,7 +41,7 @@
 
 ---
 
-### 🪅 This week i spent my time on:
+### 🪅 Weekly Development Breakdown:
 <!--START_SECTION:waka-->
 
 ```text
@@ -53,6 +53,11 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 </br>
 
-### 🌟 My GitHub stats:
+### 🌟 My GitHub Stats:
 | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=buefy&locale=en&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=buefy&locale=en&layout=compact&hide_border=true&langs_count=8" /></a> |
 |---|---|
+
+<details> 
+  <summary>👋</summary>
+  👻
+</details>
