@@ -1,4 +1,4 @@
-## 你好 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70" />
+## 你好，我叫张文庆。 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70" />
 
 <img align="right" src='https://media.giphy.com/media/VhFZrjdAh8tzw4HN8s/giphy.gif' width="200" />
 
@@ -19,13 +19,12 @@
 <br>
 
 ### 🔮 Tools:
-
-<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=flat&logo=Visual Studio Code&logoColor=white" height='25'/>
-<img align="left" alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height='25'/>
-<img align="left" alt="Github" src="https://img.shields.io/badge/GitHub-181717?&style=flat&logo=Github&logoColor=white" height='25'/>
-<img align="left" alt="Gitee" src="https://img.shields.io/badge/Gitee-C71D23?&style=flat&logo=Gitee&logoColor=white" height='25'/>
-
-<br>
+<p>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=flat&logo=Visual Studio Code&logoColor=white" height='25'/>
+<img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height='25'/>
+<img alt="Github" src="https://img.shields.io/badge/GitHub-181717?&style=flat&logo=Github&logoColor=white" height='25'/>
+<img alt="Gitee" src="https://img.shields.io/badge/Gitee-C71D23?&style=flat&logo=Gitee&logoColor=white" height='25'/>
+</p>
 
 ---
 
