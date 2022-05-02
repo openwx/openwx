@@ -1,6 +1,6 @@
-## nihao <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70" />
+## 你好 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70" />
 
-<img align="right" src='https://media.giphy.com/media/Dk57URqjqjHjNGHeMV/giphy.gif' width="210" />
+<img align="right" src='https://media.giphy.com/media/VhFZrjdAh8tzw4HN8s/giphy.gif' width="210" />
 
 ### 🔖 Languages:
 
@@ -49,7 +49,7 @@ HTML         0 secs          ███░░░░░░░░░░░░░░
 
 ---
 
-### 🐍Snake Eating My Contribution Graph
+### 🎮Snake Eating My Contribution Graph
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
