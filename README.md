@@ -1,6 +1,6 @@
 ## 你好 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70" />
 
-<img align="right" src='https://media.giphy.com/media/VhFZrjdAh8tzw4HN8s/giphy.gif' width="210" />
+<img align="right" src='https://media.giphy.com/media/VhFZrjdAh8tzw4HN8s/giphy.gif' width="200" />
 
 ### 🔖 Languages:
 
@@ -14,6 +14,7 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='40' />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='40' />
 
+<br>
 <br>
 <br>
 
@@ -49,13 +50,6 @@ HTML         0 secs          ███░░░░░░░░░░░░░░
 
 ---
 
-### 🎮Snake Eating My Contribution Graph
+### 🎮 Snake Eating My Contribution Graph
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<br>
-
-<!-- <details> 
-  <summary>👋</summary>
-  👻
-</details> -->
