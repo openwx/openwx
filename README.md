@@ -1,8 +1,6 @@
-## 你好，我叫张文庆。 <img src="./assets/img/giphy (1).gif" width="70" />
+<img align="right" src="./assets/img/hey.gif" width="200" />
 
-<img align="right" src="./assets/img/giphy.gif" width="200" />
-
-### 🔖 Languages:
+### 🪅 Learning:
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
@@ -28,7 +26,7 @@
 
 ---
 
-### 🪅 Weekly Development Breakdown:
+### 🏷️ Weekly Development Breakdown:
 
 <!--START_SECTION:waka-->
 
@@ -44,7 +42,7 @@ HTML         0 secs          ███░░░░░░░░░░░░░░
 
 <br>
 
-### 🌟 My GitHub Stats:
+### 🌈 My GitHub Stats:
 
 | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Turing-bot&show_icons=true&include_all_commits=true&theme=buefy&locale=en&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing-bot&theme=buefy&locale=en&layout=compact&hide_border=true&langs_count=8" /></a> |
 |---|---|
