@@ -54,3 +54,5 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 ### 🎮 Snake Eating My Contribution Graph
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<img align="left" src="./assets/img/coding.gif" width="50" />
