@@ -1,4 +1,3 @@
-<img alt="header" src="./assets/img/header.png" />
 <img alt="hey" align="right" src="./assets/img/hey.gif" width="200" />
 
 ### 🪅 Learning:
