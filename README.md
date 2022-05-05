@@ -1,7 +1,7 @@
 ### 🪅 Learning:
 
 <p>
-<img alt="hey" align="right" src="./assets/img/hey.gif" width="176" />
+<img alt="hey" align="right" src="./assets/img/hey.gif" width="175" />
 <img alt="html5" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
 <img alt="css3" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 <img alt="javascript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
