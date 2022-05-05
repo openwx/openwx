@@ -20,6 +20,7 @@
 ### 🔮 Tools:
 <p>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=flat&logo=Visual Studio Code&logoColor=white" height="25"/>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?&style=flat&logo=Markdown&logoColor=white" height="25"/>
 <img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height="25"/>
 <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?&style=flat&logo=YouTube&logoColor=white" height="25"/>
 <img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-00A1D6?&style=flat&logo=Bilibili&logoColor=white" height="25"/>
