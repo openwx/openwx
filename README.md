@@ -1,7 +1,7 @@
-<img alt="hey" align="right" src="./assets/img/hey.gif" width="200" />
-
 ### 🪅 Learning:
 
+<p>
+<img alt="hey" align="right" src="./assets/img/hey.gif" width="190" />
 <img alt="html5" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
 <img alt="css3" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 <img alt="javascript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -12,7 +12,8 @@
 <img alt="react" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 <img alt="typescript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
 <img alt="go" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
-
+</p>
+  
 <br>
 <br>
 <br>
