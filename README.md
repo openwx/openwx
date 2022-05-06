@@ -1,17 +1,17 @@
 ### 🪅 Learning:
 
 <p>
-<img alt="hey" align="right" src="./assets/img/hey.gif" width="175" />
-<img alt="html5" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-<img alt="css3" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-<img alt="javascript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img alt="jquery" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" />
-<img alt="git" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-<img alt="nodejs" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-<img alt="vuejs" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
-<img alt="react" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-<img alt="typescript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-<img alt="go" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+  <img alt="hey" align="right" src="./assets/img/hey.gif" width="175" />
+  <img alt="html5" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img alt="css3" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img alt="javascript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img alt="jquery" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" />
+  <img alt="nodejs" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img alt="markdown" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />
+  <img alt="vuejs" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
+  <img alt="react" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img alt="typescript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img alt="go" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
 </p>
   
 <br>
@@ -21,11 +21,10 @@
 ### 🔮 Tools:
 
 <p>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=flat&logo=Visual Studio Code&logoColor=white" height="25"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?&style=flat&logo=Markdown&logoColor=white" height="25"/>
-<img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height="25"/>
-<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?&style=flat&logo=YouTube&logoColor=white" height="25"/>
-<img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-00A1D6?&style=flat&logo=Bilibili&logoColor=white" height="25"/>
+  <img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height="25" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=flat&logo=Visual Studio Code&logoColor=white" height="25" />
+  <img alt="Git"  src="https://img.shields.io/badge/Git-F05032?&style=flat&logo=Git&logoColor=white" height="25" />
+  <img alt="GitHub"  src="https://img.shields.io/badge/GitHub-181717?&style=flat&logo=GitHub&logoColor=white" height="25" />
 </p>
 
 ---
