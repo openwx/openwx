@@ -1,7 +1,7 @@
-### 🪅 Learning:
+### ⌨️ Learning:
 
 <p>
-  <img alt="portal" align="right" src="./assets/img/portal.gif" width="175" />
+  <img alt="portal" align="right" src="./assets/img/portal.gif" width="200" />
   <img alt="html5" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img alt="css3" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img alt="javascript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-### 🔮 Tools:
+### 📦 Tools:
 
 <p>
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height="25" />
@@ -26,7 +26,7 @@
 
 ---
 
-### 🏷️ Weekly Development Breakdown:
+### 🔖 Weekly Development Breakdown:
 
 <!--START_SECTION:waka-->
 
