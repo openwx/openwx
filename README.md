@@ -1,4 +1,4 @@
-### ⌨️ Learning:
+### 🪅 Learning:
 
 <p>
   <img alt="portal" align="right" src="./assets/img/portal.gif" width="200" />
