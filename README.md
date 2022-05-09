@@ -15,6 +15,7 @@
 <br>
 <br>
 <br>
+<br>
 
 ### 📦 Tools:
 
@@ -24,7 +25,8 @@
   <img alt="Git"  src="https://img.shields.io/badge/Git-F05032?&style=flat&logo=Git&logoColor=white" height="25" />
 </p>
 
----
+<br>
+<br>
 
 ### 🔖 Weekly Development Breakdown:
 
@@ -43,7 +45,8 @@ CSS          11 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
----
+<br>
+<br>
 
 ### 🎮 Snake Eating My Contribution Graph
 
