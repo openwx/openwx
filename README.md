@@ -52,5 +52,3 @@ CSS          11 mins         █░░░░░░░░░░░░░░░░
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<img alt="git-cheat-sheet" src="./assets/img/git-cheat-sheet.png" />
