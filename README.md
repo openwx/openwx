@@ -17,13 +17,13 @@
 <br>
 <br>
 
-### 📦 Tools:
+### 🍭 Tools:
 
 <p>
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height="25" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=flat&logo=Visual Studio Code&logoColor=white" height="25" />
   <img alt="Git"  src="https://img.shields.io/badge/Git-F05032?&style=flat&logo=Git&logoColor=white" height="25" />
-  <img alt="Yarn"  src="https://img.shields.io/badge/Yarn-2C8EBB?&style=flat&logo=Yarn&logoColor=white" height="25" />
+  <img alt="npm"  src="https://img.shields.io/badge/npm-CB3837?&style=flat&logo=npm&logoColor=white" height="25" />
 </p>
 
 <br>
