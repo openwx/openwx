@@ -17,7 +17,7 @@
 <br>
 <br>
 
-### 🍭 Tools:
+### 🔖 Tools:
 
 <p>
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height="25" />
@@ -29,7 +29,7 @@
 <br>
 <br>
 
-### 🔖 Weekly Development Breakdown:
+### 🌠 Weekly Development Breakdown:
 
 <!--START_SECTION:waka-->
 
