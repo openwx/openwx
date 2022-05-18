@@ -1,6 +1,6 @@
 <img alt="header" src="./assets/img/header.png" />
 
-### 🪅 Learning:
+### 🪅 Learning :
 
 <p>
   <img alt="portal" align="right" src="./assets/img/portal.gif" width="240" />
@@ -19,7 +19,7 @@
 <br>
 <br>
 
-### 🔖 Tools:
+### 🔖 Tools :
 
 <p>
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height="25" />
@@ -50,7 +50,7 @@ TypeScript   1 min           ░░░░░░░░░░░░░░░░░
 <br>
 <br>
 
-### 🎮 Snake Eating My Contribution Graph:
+### 🎮 Snake Eating My Contribution Graph :
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
