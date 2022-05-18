@@ -30,7 +30,7 @@
 <br>
 <br>
 
-### 🌠 Weekly Development Breakdown:
+### 🌠 Weekly Development Breakdown <img alt="header" src="./assets/img/coding.gif" width=50 /> :
 
 <!--START_SECTION:waka-->
 
@@ -50,7 +50,7 @@ TypeScript   1 min           ░░░░░░░░░░░░░░░░░
 <br>
 <br>
 
-### 🎮 Snake Eating My Contribution Graph
+### 🎮 Snake Eating My Contribution Graph:
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
