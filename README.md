@@ -1,3 +1,5 @@
+<img alt="header" src="./assets/img/header.png" />
+
 ### 🪅 Learning:
 
 <p>
