@@ -3,8 +3,6 @@
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Turing-bot?style=social">
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Turing-bot/Turing-bot?style=social">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/Turing-bot/Turing-bot?style=social">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Turing-bot/Turing-bot?style=social">
 </p>
 
 ---
