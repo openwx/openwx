@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://t.me/Evan_You">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?&style=flat-square&logo=Telegram&logoColor=white" />
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?&style=social&logo=Telegram&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://discord.gg/pN77vXfrWH">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?&style=flat-square&logo=Discord&logoColor=white" />
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?&style=social&logo=Discord&logoColor=white" />
   </a>
 </p>
 
