@@ -1,12 +1,8 @@
 <img alt="header" src="./assets/img/header.png" />
 
 <p align="center">
-  <a href="https://t.me/C137_R">
+  <a href="https://t.me/Evan_You">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?&style=flat-square&logo=Telegram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://space.bilibili.com/48680878">
-    <img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-FB7299?&style=flat-square&logo=Bilibili&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://discord.gg/pN77vXfrWH">
