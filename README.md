@@ -1,14 +1,22 @@
 <img alt="header" src="./assets/img/header.png" />
 
 <p align="center">
-  <a href="https://t.me/C137_R"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?&style=flat-square&logo=Telegram&logoColor=white" /></a>
+  <a href="https://t.me/C137_R">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?&style=flat-square&logo=Telegram&logoColor=white" />
+  </a>
   &nbsp;
-  <a href="https://space.bilibili.com/48680878"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-FB7299?&style=flat-square&logo=Bilibili&logoColor=white" /></a>
+  <a href="https://space.bilibili.com/48680878">
+    <img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-FB7299?&style=flat-square&logo=Bilibili&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/pN77vXfrWH">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?&style=flat-square&logo=Discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<br>
+<br />
 
 ### 🪅 Learning :
 
@@ -22,10 +30,10 @@
   <img alt="typescript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />        
 </p>
   
-<br>
-<br>
-<br>
-<br>
+<br />
+<br />
+<br />
+<br />
 
 ### 🔖 Tools :
 
@@ -36,8 +44,8 @@
   <img alt="Markdown"  src="https://img.shields.io/badge/Markdown-000000?&style=flat&logo=Markdown&logoColor=white" height="25" />
 </p>
 
-<br>
-<br>
+<br />
+<br />
 
 ### 🌠 Weekly Development Breakdown <img alt="header" src="./assets/img/coding.gif" width=50 /> :
 
@@ -56,8 +64,8 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br>
-<br>
+<br />
+<br />
 
 ### 🎮 Snake Eating My Contribution Graph :
 
