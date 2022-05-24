@@ -25,7 +25,6 @@
 </p>
 
 <br />
-<br />
 
 ### 🌠 Weekly Development Breakdown <img alt="header" src="./assets/img/coding.gif" width=50 /> :
 
