@@ -44,13 +44,10 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br />
-<br />
-
-### 🎮 Snake Eating My Contribution Graph :
+<!-- ### 🎮 Snake Eating My Contribution Graph :
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
 
 ---
 
