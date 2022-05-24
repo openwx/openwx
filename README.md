@@ -20,8 +20,8 @@
 <p>
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height="25" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=flat&logo=Visual Studio Code&logoColor=white" height="25" />
-  <img alt="Git"  src="https://img.shields.io/badge/Git-F05032?&style=flat&logo=Git&logoColor=white" height="25" />
   <img alt="Markdown"  src="https://img.shields.io/badge/Markdown-000000?&style=flat&logo=Markdown&logoColor=white" height="25" />
+  <img alt="Git"  src="https://img.shields.io/badge/Git-F05032?&style=flat&logo=Git&logoColor=white" height="25" />
 </p>
 
 <br />
