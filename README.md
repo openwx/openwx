@@ -32,11 +32,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 May 2022 - To: 01 June 2022
+From: 26 May 2022 - To: 02 June 2022
 
-JSON         14 mins         ███████████▒░░░░░░░░░░░░░   45.47 %
-JavaScript   12 mins         ██████████░░░░░░░░░░░░░░░   40.05 %
-Other        4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+JavaScript   22 mins         ████████████░░░░░░░░░░░░░   48.54 %
+JSON         19 mins         ██████████▒░░░░░░░░░░░░░░   41.32 %
+Other        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
 ```
 
 <!--END_SECTION:waka-->
