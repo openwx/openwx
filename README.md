@@ -27,7 +27,7 @@
 
 <br />
 
-### 🌠 Weekly Development Breakdown <img alt="header" src="./assets/img/coding.gif" width=50 /> :
+### 🌠 Weekly Development Breakdown :
 
 <!--START_SECTION:waka-->
 
