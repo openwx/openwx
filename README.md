@@ -1,7 +1,5 @@
 <img src="./assets/img/header.png" />
 
----
-
 ### 🪅 Learning :
 
 <p>
@@ -49,11 +47,3 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
-
----
-
-<p align="center">
-  <a href="https://t.me/Evan_You">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?&style=social&logo=Telegram&logoColor=white" />
-  </a>
-</p>
