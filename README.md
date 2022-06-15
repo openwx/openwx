@@ -1,28 +1,32 @@
 <img src="./assets/img/header.png" />
 
-### 🪅 Learning :
+<br />
+
+### 🪅 Useing :
 
 <p>
-  <img alt="html5" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="37" />
-  <img alt="css3" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="37" />
-  <img alt="javascript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="37" />
-  <img alt="nodejs" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="37" />
-  <img alt="vuejs" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="37" />
-  <img alt="react" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="37" />
-  <img alt="typescript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="37" />        
-</p>
-  
-<br />
-<br />
-<br />
-<br />
-
-### 🔖 Tools :
-
-<p>
-  <img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-4285F4?&style=flat&logo=Google Chrome&logoColor=white" height="23" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=flat&logo=Visual Studio Code&logoColor=white" height="23" />
-  <img alt="Markdown"  src="https://img.shields.io/badge/Markdown-000000?&style=flat&logo=Markdown&logoColor=white" height="23" />
+  <img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  &nbsp;
+  &nbsp;
+  <img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  &nbsp;
+  &nbsp;
+  <img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  &nbsp;
+  &nbsp;
+  <img alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  &nbsp;
+  &nbsp;
+  <img alt="vuejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" />
+  &nbsp;
+  &nbsp;
+  <img alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  &nbsp;
+  &nbsp;
+  <img alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+  &nbsp;
+  &nbsp;
+  <img alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 </p>
 
 <br />
