@@ -29,8 +29,11 @@
   <img alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
+<br />
+
 ##
 
+<br />
 <br />
 
 <p>
@@ -49,9 +52,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
   <img alt="Apache ECharts" src="https://img.shields.io/badge/-Apache_ECharts-AA344D?style=flat-square&logo=Apache-ECharts&logoColor=white" />
   <img alt="IcoMoon" src="https://img.shields.io/badge/-IcoMoon-825794?style=flat-square&logo=IcoMoon&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" />
-  <img alt="Gravatar" src="https://img.shields.io/badge/-Gravatar-1E8CBE?style=flat-square&logo=Gravatar&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub_Pages-222222?style=flat-square&logo=GitHub-Pages&logoColor=white" />
 </p>
