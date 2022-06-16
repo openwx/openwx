@@ -21,7 +21,6 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white" />
-  <img alt="Lodash" src="https://img.shields.io/badge/-Lodash-3492FF?style=flat-square&logo=Lodash&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
   <img alt="Apache ECharts" src="https://img.shields.io/badge/-Apache_ECharts-AA344D?style=flat-square&logo=Apache-ECharts&logoColor=white" />
