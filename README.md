@@ -23,7 +23,8 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white" />
   <img alt="Apache ECharts" src="https://img.shields.io/badge/-Apache_ECharts-AA344D?style=flat-square&logo=Apache-ECharts&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" />  
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
 </p>
