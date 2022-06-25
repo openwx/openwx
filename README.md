@@ -49,7 +49,6 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 ---
 
 <p align="center">
-  Last refresh: 
   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Turing-bot/Turing-bot/Waka%20Readme?label=GitHub%20Workflow%20Status&logo=GitHub">
 </p>
 
