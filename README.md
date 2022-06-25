@@ -50,6 +50,7 @@ HTML         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <p align="center">
   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Turing-bot/Turing-bot/Waka%20Readme?label=GitHub%20Workflow%20Status&logo=GitHub">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Turing-bot/Turing-bot?logo=GitHub">
 </p>
 
 
