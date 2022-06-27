@@ -51,7 +51,7 @@ TypeScript   3 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ---
 
 <p align="center">
-  <img alt="Actions Status" src="https://img.shields.io/github/workflow/status/Turing-bot/Turing-bot/Waka%20Readme?label=Actions%20Status&logo=GitHub">
+  <img alt="GitHub Actions" src="https://img.shields.io/github/workflow/status/Turing-bot/Turing-bot/Waka%20Readme?label=GitHub%20Actions&logo=GitHub">
 </p>
 
 
