@@ -1,4 +1,4 @@
-<img src="./assets/img/header.png" />
+<img src="./assets/img/coding.gif" height="50px"/>
 
 ## 
 
@@ -50,7 +50,7 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
----
+##
 
 <p align="center">
   <img alt="GitHub Actions" src="https://img.shields.io/github/workflow/status/Turing-bot/Turing-bot/Waka%20Readme?label=GitHub%20Actions&logo=GitHub">
