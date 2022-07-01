@@ -1,4 +1,5 @@
 <img src="./assets/img/wallhaven-m9eo2m_3840x2160.png" />
+<img src="./assets/img/coding.gif"  height="50px"/>
 
 ## 
 
