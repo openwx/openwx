@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/img/coding.gif" width="80px" align="middle" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/img/coding.gif" width="80px" align="top" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com?font=&size=50&pause=1000&color=4FC08D&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=435&height=150&lines=hello%2C+world;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C" align="middle" />
 </p>
 
