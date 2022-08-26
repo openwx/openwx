@@ -1,6 +1,9 @@
-<img src="./assets/img/coding.gif" width="80px" />
+<p>
+  <img src="./assets/img/coding.gif" width="80px" align="middle" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=&size=50&pause=1000&color=4FC08D&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=435&height=150&lines=hello%2C+world;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C" align="middle" />
+</p>
 
-## 
+## 🔖 Language And Tools :
 
 <br />
 <br />
@@ -33,7 +36,10 @@
 
 <br />
 
-### 🌠 Weekly Development Breakdown :
+## 🌠 Weekly Development Breakdown :
+
+<br />
+<br />
 
 <!--START_SECTION:waka-->
 
@@ -46,14 +52,26 @@ Vue.js   2 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+<br />
+
+## 🪅 GitHub Profile 3D Contrib :
+
+<br />
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-### 🎮 Snake Eating My Contribution Graph :
+<br />
+
+## 🎮 Snake Eating Contribution Graph :
+
+<br />
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-##
+<br />
+
+---
 
 <p align="center">
   <img alt="GitHub Actions" src="https://img.shields.io/github/workflow/status/Turing-bot/Turing-bot/Waka%20Readme?label=GitHub%20Actions&logo=GitHub">
