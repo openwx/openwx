@@ -46,6 +46,8 @@ Vue.js   2 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ### 🎮 Snake Eating My Contribution Graph :
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
