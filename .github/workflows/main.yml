@@ -25,7 +25,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: Turing-bot
+          github_user_name: turing-bot
           
           # list of files to generate.
           # one file per line. Each output can be customized with options as query string.
