@@ -73,15 +73,15 @@ JSON   25 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 <br />
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Turing-bot/Turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/turing-bot/turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/turing-bot/turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <br />
 
 
 
 <p align="center">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Turing-bot/Turing-bot/Waka%20Readme?label=Workflows">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Turing-bot/Turing-bot">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Turing-bot/Turing-bot">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/turing-bot/turing-bot/Waka%20Readme?label=Workflows">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/turing-bot/turing-bot">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/turing-bot/turing-bot">
 </p>
