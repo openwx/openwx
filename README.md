@@ -50,14 +50,14 @@ Other      0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <br />
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/turing-bot/turing-bot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/turing-bot/turing-bot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/z0p/z0p/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/z0p/z0p/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <br />
 
 ##
 
 <p align="center">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/turing-bot/turing-bot/Waka%20Readme?label=Workflows">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/turing-bot/turing-bot">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/z0p/z0p/Waka%20Readme?label=Workflows">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/z0p/z0p">
 </p>
