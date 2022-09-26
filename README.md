@@ -47,6 +47,7 @@ GitIgnore file   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <br />
 
+<!--
 ### 🎮 Snake Eating Contribution Graph :
 
 <br />
@@ -55,6 +56,7 @@ GitIgnore file   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![github contribution grid snake animation](https://raw.githubusercontent.com/z0p/z0p/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <br />
+-->
 
 ##
 
