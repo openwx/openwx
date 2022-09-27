@@ -47,17 +47,6 @@ GitIgnore file   7 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <br />
 
-<!--
-### 🎮 Snake Eating Contribution Graph :
-
-<br />
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/openwx/openwx/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/openwx/openwx/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<br />
--->
-
 ##
 
 <p align="center">
