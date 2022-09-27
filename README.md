@@ -52,8 +52,8 @@ GitIgnore file   7 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <br />
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/z0p/z0p/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/z0p/z0p/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/openwx/openwx/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/openwx/openwx/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <br />
 -->
@@ -61,6 +61,6 @@ GitIgnore file   7 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ##
 
 <p align="center">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/z0p/z0p/Waka%20Readme?label=Workflows">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/z0p/z0p">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/openwx/openwx/Waka%20Readme?label=Workflows">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/openwx/openwx">
 </p>
