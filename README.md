@@ -36,20 +36,3 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
-<br />
-
-### 🪅 GitHub Profile 3D Contrib :
-
-<br />
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<br />
-
-##
-
-<p align="center">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/openwx/openwx/Waka%20Readme?label=Workflows">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/openwx/openwx">
-</p>
