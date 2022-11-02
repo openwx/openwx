@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Zhang Wenqing, a passionate research frontEnd web developer, interested in web page writing.
+Hi, I'm Zhang Wenqing, a passionate research frontEnd web developer.
 <br/>
 
 - 📝 I'm looking for a job about front-end developement
