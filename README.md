@@ -1,6 +1,16 @@
-### 🔖 Language And Tools :
+### Hi there 👋
 
-<br />
+Hi, I'm Zhang Wenqing, a passionate research frontEnd web developer, interested in web page writing.
+<br/>
+
+- 📝 I'm looking for a job about front-end developement
+- 📫 How to reach me: gitalk@outlook.com
+- 📲 WeChat: `C137_R`
+
+---
+
+### Language And Tools :
+
 <br />
 
 <p>
@@ -15,11 +25,8 @@
   <img alt="typora" src="https://img.shields.io/badge/-Typora-B5B5B6?style=flat-square&logo=Obsidian&logoColor=white" />
 </p>
 
-<br />
+### Weekly Development Breakdown :
 
-### 🌠 Weekly Development Breakdown :
-
-<br />
 <br />
 
 <!--START_SECTION:waka-->
