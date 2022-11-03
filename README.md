@@ -31,7 +31,11 @@ Hi, I'm Zhang Wenqing, a passionate research frontEnd web developer.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 October 2022 - To: 02 November 2022
+
+HTML       1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.97 %
+Markdown   0 secs          ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.34 %
+YAML       0 secs          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.69 %
 ```
 
 <!--END_SECTION:waka-->
