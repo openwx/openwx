@@ -4,7 +4,6 @@ Hi, I'm Zhang Wenqing, a passionate research frontEnd web developer.
 <br/>
 
 - 📝 I'm looking for a job about front-end developement
-- 📫 How to reach me: ***********
 
 ---
 
