@@ -1,8 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
----
+- 金
+- 木
+- 水
+- 火
+- 土
 
-### Language And Tools :
+<br />
+
+### Tools :
 
 <br />
 
@@ -16,12 +22,11 @@
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" />
 </p>
 
+---
+
 ### Github Stats :
 
 <br />
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=openwx&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="openwx's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openwx&layout=compact&theme=transparent&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <picture>
 <source 
@@ -35,7 +40,21 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=openwx&show_icons=true" />
 </picture>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openwx&layout=compact&theme=transparent&hide_border=true" />
+<br />
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=openwx&layout=compact&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=openwx&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openwx&layout=compact" />
+</picture>
+
+---
 
 ### Weekly Development Breakdown :
 
