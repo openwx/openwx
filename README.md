@@ -12,11 +12,30 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" />
-  <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" />
-  <img alt="typora" src="https://img.shields.io/badge/-Typora-B5B5B6?style=flat-square&logo=Obsidian&logoColor=white" />
 </p>
+
+### Github Stats :
+
+<br />
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=openwx&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="openwx's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openwx&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=openwx&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=openwx&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=openwx&show_icons=true" />
+</picture>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openwx&layout=compact&theme=transparent&hide_border=true" />
 
 ### Weekly Development Breakdown :
 
